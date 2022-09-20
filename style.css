@@ -5,3 +5,9 @@ font color:
 secondary color:   
 tertiary color:    
 */
+
+header {
+  background-color: lightblue;  
+}
+
+h1 {background-color: lightgreen;}
